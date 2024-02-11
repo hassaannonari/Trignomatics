@@ -7,7 +7,8 @@ This Project consists of Several file including:
 3: trignomatics.cpp: It is the file that contains the main function to execute the code in builder.cpp(whole code)
 4: libs.cpp: It includes the possible libraries that can be used in this project.
 5: readme.txt: It contains the general information about the project and basic contact information.
-
+6: definitions.cpp: It contains the possible definitions of topics related to trignometry defined in this software.
+7: trignomatics.cpp: It is nothing but just an executable file of trignomatics.cpp. It can be run on Windows Operating System.
 These all were the files I really appreaciate anyone to contribute to this project fundamentally. Of course, this is an open-source project.
 This version of Trignomatics is 24.2.1
 
