@@ -1,4 +1,4 @@
-Hello, I am Muhammad Hassaan Awais, I am Student of ICS-1st Year in PGC Okara and did my matriculation in 2023 from DPS Depalpur. I am very interested in Programming and Music. 
+Hello, I am Muhammad Hassaan Awais, I am Student of ICS-2nd Year in PGC Okara and did my matriculation in 2023 from DPS Depalpur. I am very interested in Programming and Music. 
 I also love spending time with friends and exploring natural things.
 Developer of Trignomatics Software purely developed in C++ to help the students and Mathematicians to solve their problems related to trignometry easily by just choosing the options and by using the predefined formulae in it. 
 This Project consists of Several file including:
